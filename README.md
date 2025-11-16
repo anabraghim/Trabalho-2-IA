@@ -16,8 +16,8 @@ O notebook contém todas as etapas do projeto, desde a preparação dos dados at
 
 ## Entregáveis
 
-- **Notebook Jupyter:** [Clique aqui para acessar](https://youtu.be/UEIwu_j854k)  
-- **Vídeo de Apresentação:** [Clique aqui para assistir](/trabalho_2_IA_anabraghim.ipynb)
+- **Notebook Jupyter:** [Clique aqui para acessar](/trabalho_2_IA_anabraghim.ipynb)
+- **Vídeo de Apresentação:** [Clique aqui para assistir](https://youtu.be/UEIwu_j854k) 
 
 ## Estrutura do Notebook
 
